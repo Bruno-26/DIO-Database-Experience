@@ -1,2 +1,2 @@
-# -DIO-Database-Experience
+# DIO - Database Experience
 Repositório DIO - Database-Experience
